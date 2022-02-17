@@ -3,15 +3,17 @@
 ## Projeto RocketSeat
 
 O letmeask é um app desenvolvido durante a NLW que permite alguém realizando lives crie uma sala para receber perguntas.
+<br />
+Stacks utilizadas: React, Typescript, Firebase.
 
 ## Capa do Projeto
-![cadastro-react-capa](https://github.com/WagnerTerry/Crud-cadastro-usuario/blob/master/frontend/src/assets/to_readme/cadastro-react-capa.png)
+![letmeask-capa](https://github.com/WagnerTerry/Letmeask/blob/master/src/assets/to_readme/capa_projeto.png)
 
 ## Gif Projeto
-![cadastro-react](https://github.com/WagnerTerry/Crud-cadastro-usuario/blob/master/frontend/src/assets/to_readme/cadastro-react.gif)
+![letmeask-gif](https://github.com/WagnerTerry/Letmeask/blob/master/src/assets/to_readme/letmeask.gif)
 
 ## Video (Youtube)
-[Apresentação do Projeto Cadastro-React](https://www.youtube.com/watch?v=vtU2iWhoedc)
+[Apresentação do Letmeask](https://youtu.be/YSKRdj0alXQ)
 
 ### Dependências
 
