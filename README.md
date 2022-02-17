@@ -2,7 +2,9 @@
 
 ## Projeto RocketSeat
 
-- Dependências
+O letmeask é um app desenvolvido durante a NLW que permite alguém realizando lives crie uma sala para receber perguntas.
+
+### Dependências
 
 * create-react-app letmeask --template typescript
 * yarn add firebase
