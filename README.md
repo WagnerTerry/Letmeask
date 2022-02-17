@@ -4,6 +4,15 @@
 
 O letmeask é um app desenvolvido durante a NLW que permite alguém realizando lives crie uma sala para receber perguntas.
 
+## Capa do Projeto
+![cadastro-react-capa](https://github.com/WagnerTerry/Crud-cadastro-usuario/blob/master/frontend/src/assets/to_readme/cadastro-react-capa.png)
+
+## Gif Projeto
+![cadastro-react](https://github.com/WagnerTerry/Crud-cadastro-usuario/blob/master/frontend/src/assets/to_readme/cadastro-react.gif)
+
+## Video (Youtube)
+[Apresentação do Projeto Cadastro-React](https://www.youtube.com/watch?v=vtU2iWhoedc)
+
 ### Dependências
 
 * create-react-app letmeask --template typescript
